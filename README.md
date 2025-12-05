@@ -39,15 +39,6 @@
 **Specialized Skills**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ---
-## 🚀 Featured Projects
-### 🧠 Reddit User Persona Generator (2025)
-Built a pipeline that scrapes and analyzes Reddit user activity to generate behavioral personas using LLMs and NLP techniques.  
-**Tech Stack:** Python, PRAW, Ollama, Local LLM, NLP
-- 🔍 **Data Collection**: Automated scraping of posts and comments
-- 🤖 **AI Analysis**: Local LLM integration for personality inference
-- 📊 **Insights**: Activity metrics with inline content citations
-
-
 ### 📰 News Summarization & TTS Web App (2025)
 Created an application that aggregates news, performs sentiment analysis, and generates Hindi audio summaries.  
 **Tech Stack:** Streamlit, FastAPI, NLP, TTS, Sentiment Analysis
@@ -58,20 +49,12 @@ Created an application that aggregates news, performs sentiment analysis, and ge
 ---
 ## 💼 Professional Experience
 
----
-### 📊 GitHub Stats
-![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithsukka&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsukka&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithsukka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
 ### 🌟 Professional Highlights
-- 🚀 **90% Automation Success**: Reduced manual data processing from 6hrs/day to 30mins
-- 🎯 **98% Computer Vision Accuracy**: High-performance detection systems
-- ⚡ **AI Engineering**: Built scalable, production-ready AI pipelines (LLMs, GenAI, Vision)
-- 📊 **Business Impact**: Delivered analytics that shaped key business decisions
-- 🏅 **Oracle Certified**: Generative AI Professional (2024)
+- Developed the Python backend for a SaaS tool powering web and WhatsApp chatbots, enabling 24/7
+  automated customer support.
+- Integrated Qdrant vector database for fast, accurate retrieval grounded in client-specific data.
+- Built FastAPI services for data ingestion, embedding generation, and retrieval workflows.
+- Processed data from custom APIs and stored embeddings for context-aware chatbot responses.
 ---
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithsukka/)
